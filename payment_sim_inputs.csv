@@ -1,0 +1,6 @@
+corridor,processing_cost_legacy_cents,processing_cost_programmable_cents,liquidity_buffer_legacy_pct,liquidity_buffer_programmable_pct,compliance_opex_legacy_bps,compliance_opex_programmable_bps,avg_ticket_wholesale_usd,avg_ticket_retail_usd,daily_transactions,buffer_recalc_seconds_legacy,buffer_recalc_seconds_programmable
+US-EU,7.5,3.2,1.8,0.6,7,2,8400,420,200000.0,82800,15
+US-MX,7.5,3.2,1.8,0.6,7,2,8400,420,200000.0,82800,15
+EU-IN,7.5,3.2,1.8,0.6,7,2,8400,420,200000.0,82800,15
+IN-SG,7.5,3.2,1.8,0.6,7,2,8400,420,200000.0,82800,15
+AU-CN,7.5,3.2,1.8,0.6,7,2,8400,420,200000.0,82800,15
